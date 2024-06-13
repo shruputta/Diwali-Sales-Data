@@ -13,10 +13,11 @@
 📌Stores the raw data files used for the analysis, including the "diwalisale.csv" dataset. The dataset contains information about sales transactions, including product details, customer information, sales dates, and revenue.
 
 # Methodology
- 📌Data Loading: Load the Diwali sales dataset into the code using the panda library. Perform initial data exploration to understand the structure and content of the dataset.
+ 📌Data Loading : Load the Diwali sales dataset into the code using the panda library. Perform initial data exploration to understand the structure and content of the dataset.
 📌Data Cleaning and Manipulation: Handle missing values, remove duplicates if any, and perform necessary data transformations. This step ensures the data is in a suitable format for analysis.
 📌Exploratory Data Analysis (EDA): Use pandas, matplotlib, and seaborn libraries to explore the dataset. Analyze different variables, their distributions, and their relationships. Generate various visualizations such as bar plots, pie charts, and scatter plots to uncover patterns and trends.
 📌Customer Analysis: Analyze customer demographics such as states, occupations, gender, and age groups to identify potential customers. Use bar plots or pie charts to visualize the distribution of customers across different categories.
+📌Product Sales Analysis: Determine the most selling product categories and specific products during the Diwali festival. Utilize bar plots or pie charts to visualize the sales quantities and identify the top-selling items.
 
 # Project Results
 📌Most of the buyers are females and even the purchasing power of females are greater than men.
